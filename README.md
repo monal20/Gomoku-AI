@@ -15,6 +15,7 @@ the following leaderboard scores.
 
 Libraries installed:
 Pygame: https://www.pygame.org/docs/tut/ImportInit.html
+
 CMU-112-Graphics: from: https://www.cs.cmu.edu/~112/notes/notes-animations-part1.html
 
 Shortcuts:
